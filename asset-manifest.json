@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/baatkro.github.io/static/css/main.42a21980.css",
-    "main.js": "/baatkro.github.io/static/js/main.606f857c.js",
+    "main.js": "/baatkro.github.io/static/js/main.d40ff89b.js",
     "static/media/insert.png": "/baatkro.github.io/static/media/insert.0ee67a4f0dc9c7b234bc.png",
     "static/media/send.png": "/baatkro.github.io/static/media/send.7d648d0e3c2e7a8576eb.png",
     "static/media/logo.png": "/baatkro.github.io/static/media/logo.6a764f3c29e494c5c25c.png",
@@ -10,10 +10,10 @@
     "static/media/editImg.png": "/baatkro.github.io/static/media/editImg.960ea3322ad5865022a9.png",
     "index.html": "/baatkro.github.io/index.html",
     "main.42a21980.css.map": "/baatkro.github.io/static/css/main.42a21980.css.map",
-    "main.606f857c.js.map": "/baatkro.github.io/static/js/main.606f857c.js.map"
+    "main.d40ff89b.js.map": "/baatkro.github.io/static/js/main.d40ff89b.js.map"
   },
   "entrypoints": [
     "static/css/main.42a21980.css",
-    "static/js/main.606f857c.js"
+    "static/js/main.d40ff89b.js"
   ]
 }
